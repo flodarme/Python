@@ -3,8 +3,7 @@
 #
 # Author:  Florence Darko-Mensah
 #
-# Purpose: The Tech Academy - Python Course, Creating out first program together
-#          Demonstrating how to pass variables from function to function
+# Purpose:  Demonstrating how to pass variables from function to function
 #          while producing a functional game.
 #
 #          Remember, function_name(variable ) _means that we pass in the variable.
